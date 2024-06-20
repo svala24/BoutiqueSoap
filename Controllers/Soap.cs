@@ -162,4 +162,11 @@ namespace BoutiqueSoap.Controllers
             return (_context.Soap?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
+    public class About : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
 }

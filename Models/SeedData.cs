@@ -22,7 +22,7 @@ public static class SeedData
             context.Soap.AddRange(
                 new Soap
                 {
-                    Id = 1,
+                    
                     Name = "Aloe Vera Fresh",
                     Scent = "Mild Aloe",
                     Weight = "120 grams",
@@ -31,7 +31,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 2,
                     Name = "Oatmeal Delight",
                     Scent = "Beige",
                     Weight = "130 grams",
@@ -40,7 +39,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 3,
                     Name = "Rose Petal Luxury",
                     Scent = "Rose",
                     Weight = "140 grams",
@@ -49,7 +47,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 4,
                     Name = "Coconut Cream",
                     Scent = "Coconut",
                     Weight = "125 grams",
@@ -58,7 +55,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 5,
                     Name = "Citrus Burst",
                     Scent = "Beige",
                     Weight = "130 grams",
@@ -67,7 +63,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 6,
                     Name = "Lavender Bliss",
                     Scent = "Lavender",
                     Weight = "150 grams",
@@ -76,7 +71,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 7,
                     Name = "Charcol Detox",
                     Scent = "Mild",
                     Weight = "110 grams",
@@ -84,7 +78,7 @@ public static class SeedData
                     Description = "Detoxifying soap with activated charcoal."
                 }, new Soap
                 {
-                    Id = 8,
+                    
                     Name = "Honey & Almond",
                     Scent = "Honey Almond",
                     Weight = "135 grams",
@@ -93,7 +87,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 9,
                     Name = "Peppermint Cool",
                     Scent = "Peppermint",
                     Weight = "125 grams",
@@ -102,7 +95,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 10,
                     Name = "Shea Butter Smooth",
                     Scent = "Mild Shea",
                     Weight = "130 grams",
@@ -111,7 +103,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 11,
                     Name = "Eucalytpus Escape",
                     Scent = "Beige",
                     Weight = "130 grams",
@@ -120,7 +111,6 @@ public static class SeedData
                 },
                 new Soap
                 {
-                    Id = 12,
                     Name = "Vanilla Dream",
                     Scent = "Vanilla",
                     Weight = "125 grams",
