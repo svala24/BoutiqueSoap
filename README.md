@@ -2,7 +2,11 @@
 
 Admin user account info
 email: admin123@gmail.com
-password: Admin123
+password: @Admin123
+
+Guest user accout info
+email: guest@gmail.com
+password: @Guest123
 
 2024-06-19
 
@@ -70,6 +74,9 @@ We started to work on database!
 
 facing Id syncing error in database :(
 
+23:11
+Create Guest Account and verified it.
+
 23:22
 Facing database error (Null error)
 
@@ -106,6 +113,7 @@ Fixing issue in Models>SeedData
 Registered admin account as well as verified it.
 We added about us info of website.
 
+I (Suryarajsinh) Handed over project to my team member (Harpreet).
 
-Edited About us page and content.
+Edited About us page and content which was done 
 
