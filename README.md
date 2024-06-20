@@ -17,6 +17,11 @@ Team member: Suryarajsinh Vala, Rahul Peter, Harpreet Kaur
 Company Name: Boutique Soap
 
 2024-06-19 18:20 UTC
+18:10
+Firstly, we searched company name and disucussed with team memebers.
+
+18:16
+After searching the name of company, We decided to keep The *The boutique soap* as a company name.
 
 18:22
 We created a new product page using **ASP.NET Core Web App (Model-View-Controller)** template.
