@@ -5,6 +5,7 @@ email: admin123@gmail.com
 password: Admin123
 
 2024-06-19
+
 Team name: Nu
 Team member: Suryarajsinh Vala, Rahul Peter, Harpreet Kaur
 
@@ -97,11 +98,14 @@ added collaboration to the team members.
 23:35
 Facing migration error which is due to incorrect model setups or misconfigured connection strings, which prevents the database schema updates from happening correctly.
 
+SeedData not updating in database.
 
-23:40
+Fixing issue in Models>SeedData
+
+23:50
 Registered admin account as well as verified it.
 We added about us info of website.
 
-23:40
+
 Edited About us page and content.
 
