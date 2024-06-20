@@ -68,6 +68,53 @@ public static class SeedData
                     Weight = "150 grams",
                     Price = "$7.99",
                     Description = "Calming soap with lavender essence."
+                },
+                new Soap
+                {
+                    Name = "Charcol Detox",
+                    Scent = "Mild",
+                    Weight = "110 grams",
+                    Price = "$6.00",
+                    Description = "Detoxifying soap with activated charcoal."
+                }, new Soap
+                {
+                    Name = "Honey & Almond",
+                    Scent = "Honey Almond",
+                    Weight = "135 grams",
+                    Price = "$7.00",
+                    Description = "Nourishing soap with honey and almond."
+                },
+                new Soap
+                {
+                    Name = "Peppermint Cool",
+                    Scent = "Peppermint",
+                    Weight = "125 grams",
+                    Price = "$5.25",
+                    Description = "Invigorating soap with peppermint oil."
+                },
+                new Soap
+                {
+                    Name = "Shea Butter Smooth",
+                    Scent = "Mild Shea",
+                    Weight = "130 grams",
+                    Price = "$6.75",
+                    Description = "Hydrating soap with shea butter."
+                },
+                new Soap
+                {
+                    Name = "Eucalytpus Escape",
+                    Scent = "Beige",
+                    Weight = "130 grams",
+                    Price = "$5.00",
+                    Description = "Gentle exfoliating soap with oatmeal."
+                },
+                new Soap
+                {
+                    Name = "Vanilla Dream",
+                    Scent = "Vanilla",
+                    Weight = "125 grams",
+                    Price = "$6.25",
+                    Description = "Sweet-scented soap with vanilla extract."
                 }
             );
             context.SaveChanges();
