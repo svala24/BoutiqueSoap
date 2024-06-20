@@ -8,10 +8,13 @@ Guest user accout info
 email: guest@gmail.com
 password: @Guest123
 
+
+
 2024-06-19
 
 Team name: Nu
 Team member: Suryarajsinh Vala, Rahul Peter, Harpreet Kaur
+Company Name: Boutique Soap
 
 2024-06-19 18:20 UTC
 
