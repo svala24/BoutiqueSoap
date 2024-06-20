@@ -125,3 +125,16 @@ I (Suryarajsinh) Handed over project to my team member (Harpreet).
 
 Edited About us page and content which was done 
 
+
+
+
+2024-06-20 1:40 UTC
+
+1:42
+Working on uploading project on Azure.
+
+1:43
+Facing an issue (if team member clone the repositary, they are unable to execute the code), Only on the Dev laptop is working.
+
+
+
